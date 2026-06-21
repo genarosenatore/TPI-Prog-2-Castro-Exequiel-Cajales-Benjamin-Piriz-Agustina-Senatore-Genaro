@@ -1,11 +1,4 @@
-/* 
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Other/SQLTemplate.sql to edit this template
- */
-/**
- * Author:  genar
- * Created: 20 jun 2026
- */
+
 CREATE DATABASE IF NOT EXISTS pedidos_db;
 USE pedidos_db;
 DROP TABLE IF EXISTS detalle_pedido;
