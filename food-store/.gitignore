@@ -1,7 +1,10 @@
-target/
-out/
-.idea/
-*.iml
-.vscode/
+build/
+dist/
+nbproject/private/
 *.class
-.env
+*.jar
+*.war
+*.ear
+.idea/
+.vscode/
+*.iml
