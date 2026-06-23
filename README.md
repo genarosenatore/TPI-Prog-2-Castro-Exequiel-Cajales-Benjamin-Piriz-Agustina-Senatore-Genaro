@@ -229,9 +229,11 @@ https://github.com/genarosenatore/TPI-Prog-2-Castro-Exequiel-Cajales-Benjamin-Pi
 
 # Video demostrativo
 
-Link al video demostrativo:
+El video demostrativo del sistema puede visualizarse en el siguiente enlace:
 
-FALTA AGREGAR LINK DEL VIDEO
+[Ver video demostrativo en YouTube](https://www.youtube.com/watch?v=cQ3JwG2YiUU)
+
+> Nota: la velocidad del video fue aumentada un 10% para ajustarse a las limitaciones de duración de YouTube.
 
 ---
 
