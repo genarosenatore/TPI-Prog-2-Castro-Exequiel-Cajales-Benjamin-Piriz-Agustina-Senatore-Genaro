@@ -239,7 +239,7 @@ FALTA AGREGAR LINK DEL VIDEO
 
 Link o archivo PDF de documentación:
 
-FALTA AGREGAR LINK O ARCHIVO PDF
+[Ver documentación en PDF](./Documentacion_Academica_Tecnica_TPI_Food_Store.pdf)
 
 ---
 
